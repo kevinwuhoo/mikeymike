@@ -31,7 +31,14 @@ get '/images/:category' do
     'http://simpledailyrecipes.com/wp-content/uploads/Organic-Apple-Pie.jpg',
     'http://imgls.com/wp-content/uploads/2014/06/apple-pie-recipe.jpg',
     'http://lilmisscakes.com/blog/wp-content/uploads/2011/11/Mini-Apple-Pies-001-1024x682.jpg',
-    'http://www.hannahgrimesmarketplace.com/wp-content/uploads/apple-pie-oh-173264-xl.jpg'
+  ]
+
+  images['climbing'] = [
+    'http://s.hswstatic.com/gif/ice-climbing-5.jpg',
+    'https://danhilbert.files.wordpress.com/2012/01/keepclimbing.jpg',
+    'https://interpretartistmama.files.wordpress.com/2010/06/woman-rock-climbing.jpg',
+    'http://blogaboutskiingandrockclimbing.com/wp-content/uploads/2013/10/rock-climbing.jpg',
+    'http://www.ci.bellevue.wa.us/images/Parks/sbcc_climbing_wall2.jpg'
   ]
 
 
